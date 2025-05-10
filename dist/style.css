@@ -553,3 +553,31 @@ video {
 [hidden]:where(:not([hidden="until-found"])) {
   display: none;
 }
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.flex {
+  display: flex;
+}
+
+.w-10 {
+  width: 2.5rem;
+}
+
+.w-32 {
+  width: 8rem;
+}
+
+.w-44 {
+  width: 11rem;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.gap-10 {
+  gap: 2.5rem;
+}
